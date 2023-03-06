@@ -21,7 +21,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/Dhanz03/fbnew2
+$ git clone https://github.com/Dhanz03/baru1
 
 $ cd baru1
 
@@ -29,4 +29,4 @@ $ git pull
 
 $ ls
 
-$ python baru1.py
+$ python tes23.py
